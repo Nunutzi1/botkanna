@@ -1,0 +1,25 @@
+{
+  "name": "kannabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord-tictactoe": "^2.1.1",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "distube": "^2.8.18",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "^0.0.1-security",
+    "snekfetch": "^3.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
